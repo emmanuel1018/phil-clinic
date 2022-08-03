@@ -1,0 +1,140 @@
+#title{
+
+    padding: 0% 1% 7%;
+    background-size:cover;
+}
+.title{
+
+  background-image:linear-gradient("image/nurse.jpeg");
+}
+.nav-bar{
+  background: blue;
+}
+.nav-item{
+padding: 0 15px;
+}
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem;
+  color: white;
+}
+.title{
+  background-image: url("images/nurse.jpeg");
+    padding: 0% 1% 7%;
+    background-repeat: no-repeat;
+
+}
+
+.bra{
+  font-family:"Montserrat", sans-serif;
+}
+.down1{
+  background-color: blue;
+}
+.download2{
+  border-color: blue;
+  color: black;
+}
+h1{
+  font-family:"Montserrat", sans-serif;
+  font-weight: 600;
+  text-align: left;
+  font-size: 50px;
+}
+.head{
+  padding: 0% 1% 7%;
+}
+
+.navbar{
+  font-family: 'Montserrat',sans-serif;
+  color: black;
+
+}
+.nav-item{
+  padding: 0 18px;
+  color: black;
+  font-weight: bolder;
+}
+#features{
+  padding: 7% 0 7%;
+  background-color: blue;
+}
+.we{
+  color:skyblue ;
+  margin-bottom: 1rem;
+
+}
+.we:hover{
+  color: white;
+}
+
+.jawa{
+  text-align: center;
+  padding: 5%;
+}
+p{
+  font-family: 'Montserrat',sans-serif;
+   color: skyblue;
+}
+h3{
+  color: white;
+  font-family: 'Montserrat',sans-serif;
+}
+.a{
+  color: white;
+}
+.quote{
+  color: royalblue;
+  font-size: 30px;
+  text-align: left;
+}
+.d{
+  color: black;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: royalblue;
+
+}
+.test{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.card-header{
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+.card-body{
+  background-color: white;
+
+}
+#footer{
+  padding: 7% 1% 7% 1%;
+  text-align: right;
+  background-color: skyblue;
+}
+.us{
+  margin-left: 10px;
+}
+.p{
+  color: blue;
+}
+.b{
+  background-color: blue;
+  border: none;
+  width: 200px;
+  text-align: center;
+}
+.d{
+  font-size: bolder;
+  padding: 1% 1% 5%;
+}
+#pricing{
+  text-align: center;
+}
